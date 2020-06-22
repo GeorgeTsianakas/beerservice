@@ -1,0 +1,12 @@
+todo
+1.Design and implement Beer Order Service & Beer Inventory Service
+2.Create Beer Shop BOM API to handle the microservices
+3. (Optional) Add the following services
+                                        a) Brewery Configuration Service
+                                        b) Brewery Eureka Service
+                                        c) Brewery Gateway Service
+                                        d) Inventory Failover Service
+                                        e) Brewery Configuration Repo
+                                        f) Brewery Client
+                                        g) Spring State Machine
+based on https://springframework.guru/ tutorial
