@@ -182,6 +182,5 @@
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jms_2.0_spec:1.0-alpha-2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:unknown" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-openfeign:unknown" level="project" />
   </component>
 </module>
