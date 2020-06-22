@@ -1,12 +1,12 @@
-package com.common.events;
+package com.brewery.model.events;
 
 import com.brewery.model.BeerDto;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
-public class BrewBeerEvent extends BeerEvent {
+public class NewInventoryEvent {
 
-    public BrewBeerEvent(BeerDto beerDto) {
+    public NewInventoryEvent(BeerDto beerDto) {
         super(beerDto);
     }
 

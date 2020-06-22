@@ -2,8 +2,8 @@ package com.beerservice.services.brewing;
 
 import com.beerservice.config.JmsConfig;
 import com.beerservice.domain.Beer;
-import com.common.events.BrewBeerEvent;
-import com.common.events.NewInventoryEvent;
+import com.brewery.model.events.BrewBeerEvent;
+import com.brewery.model.events.NewInventoryEvent;
 import com.beerservice.repositories.BeerRepository;
 import com.brewery.model.BeerDto;
 import lombok.RequiredArgsConstructor;
