@@ -2,7 +2,7 @@ package com.beerservice.services;
 
 import com.beerservice.config.JmsConfig;
 import com.beerservice.domain.Beer;
-import com.beerservice.events.BrewBeerEvent;
+import com.common.events.BrewBeerEvent;
 import com.beerservice.repositories.BeerRepository;
 import com.beerservice.services.inventory.BeerInventoryService;
 import com.beerservice.web.mappers.BeerMapper;
