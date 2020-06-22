@@ -2,7 +2,7 @@ package com.beerservice.bootstrap;
 
 import com.beerservice.domain.Beer;
 import com.beerservice.repositories.BeerRepository;
-import com.beerservice.web.model.BeerStyleEnum;
+import com.brewery.model.BeerStyleEnum;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

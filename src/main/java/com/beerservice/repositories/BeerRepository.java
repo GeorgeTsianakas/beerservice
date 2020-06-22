@@ -1,7 +1,7 @@
 package com.beerservice.repositories;
 
 import com.beerservice.domain.Beer;
-import com.beerservice.web.model.BeerStyleEnum;
+import com.brewery.model.BeerStyleEnum;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
