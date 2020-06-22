@@ -23,6 +23,7 @@ public class JmsConfig {
         converter.setTypeIdPropertyName("_type");
         converter.setObjectMapper(objectMapper);
         return converter;
+        //here it breaks
     }
 
 }

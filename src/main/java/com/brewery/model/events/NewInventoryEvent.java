@@ -7,7 +7,8 @@ import lombok.NoArgsConstructor;
 public class NewInventoryEvent {
 
     public NewInventoryEvent(BeerDto beerDto) {
-        super(beerDto);
+        super();
+        //super(beerDto);
     }
 
 }
